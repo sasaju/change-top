@@ -41,7 +41,7 @@ cgtop extra --start 5 --end 10 --top demo.top --out demo_extra.top
 ```bash
 # 以下两个命令效果一致
 cgtop change -c demo.csv -p demo.top -o demo_change.top
-cgtop change -csv demo.csv -top demo.top -o demo_change.top
+cgtop change --csv demo.csv --top demo.top --o demo_change.top
 ```
 
 ###  纯命令行输入
