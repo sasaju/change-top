@@ -1,0 +1,85 @@
+
+;
+;       Example topology file
+;
+; The force-field files to be included
+#include "amber99.ff/forcefield.itp"
+; name  nrexcl
+;   ai    aj    ak    al funct  definition
+; you wouldn't normally use this for a molecule like Urea,
+; but we include it here for didactic purposes
+; ai   funct    fc
+; ai   aj    ak    al  type  phi  dphi  fc
+; Include TIP3P water topology
+#include "amber99.ff/tip3p.itp"
+;molecule name   nr.
+;
+;       Example topology file
+;
+; The force-field files to be included
+#include "amber99.ff/forcefield.itp"
+; name  nrexcl
+;   ai    aj    ak    al funct  definition
+; you wouldn't normally use this for a molecule like Urea,
+; but we include it here for didactic purposes
+; ai   funct    fc
+; ai   aj    ak    al  type  phi  dphi  fc
+; Include TIP3P water topology
+#include "amber99.ff/tip3p.itp"
+;molecule name   nr.
+;
+;       Example topology file
+;
+; The force-field files to be included
+#include "amber99.ff/forcefield.itp"
+; name  nrexcl
+;   ai    aj    ak    al funct  definition
+; you wouldn't normally use this for a molecule like Urea,
+; but we include it here for didactic purposes
+; ai   funct    fc
+; ai   aj    ak    al  type  phi  dphi  fc
+; Include TIP3P water topology
+#include "amber99.ff/tip3p.itp"
+;molecule name   nr.
+;
+;       Example topology file
+;
+; The force-field files to be included
+#include "amber99.ff/forcefield.itp"
+; name  nrexcl
+;   ai    aj    ak    al funct  definition
+; you wouldn't normally use this for a molecule like Urea,
+; but we include it here for didactic purposes
+; ai   funct    fc
+; ai   aj    ak    al  type  phi  dphi  fc
+; Include TIP3P water topology
+#include "amber99.ff/tip3p.itp"
+;molecule name   nr.
+;
+;       Example topology file
+;
+; The force-field files to be included
+#include "amber99.ff/forcefield.itp"
+; name  nrexcl
+;   ai    aj    ak    al funct  definition
+; you wouldn't normally use this for a molecule like Urea,
+; but we include it here for didactic purposes
+; ai   funct    fc
+; ai   aj    ak    al  type  phi  dphi  fc
+; Include TIP3P water topology
+#include "amber99.ff/tip3p.itp"
+;molecule name   nr.
+;
+;       Example topology file
+;
+; The force-field files to be included
+#include "amber99.ff/forcefield.itp"
+; name  nrexcl
+;   ai    aj    ak    al funct  definition
+; you wouldn't normally use this for a molecule like Urea,
+; but we include it here for didactic purposes
+; ai   funct    fc
+; ai   aj    ak    al  type  phi  dphi  fc
+; Include TIP3P water topology
+#include "amber99.ff/tip3p.itp"
+;molecule name   nr.
