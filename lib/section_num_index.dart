@@ -48,7 +48,7 @@ abstract class Section{
     if (content==""){
       return false;
     }
-    final delMap = IndexMapSingleton().saveIndexSet;
+    final delMap = IndexMapSingleton().delIndexSet;
     final Set<int> nowMap = {};
     for (var index in indexCol){
       final contentStringList = processString(content);

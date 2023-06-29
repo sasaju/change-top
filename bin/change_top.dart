@@ -49,4 +49,5 @@ Future<void> main(List<String> arguments) async {
     default:
       print("cgtop：Invalid command.无效指令。");
   }
+  print("执行完毕，程序退出");
 }

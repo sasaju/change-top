@@ -73,8 +73,7 @@ void changeTopByIndexAndWrite(String text, String section,
   }
 }
 
-bool needDel(String text, String section,
-    {String outFilePath = "test/test_out.txt"}) {
+bool needDel(String text, String section) {
   const handleList = [
     "atoms",
     "bonds",
